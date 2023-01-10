@@ -1,0 +1,14 @@
+#main{
+    background-color: #eee;
+}
+
+#header{
+    text-align: center;
+}
+.caption{
+    text-align: center;
+}
+
+#img-div{
+    background: url('tribute-page.jpg');
+}

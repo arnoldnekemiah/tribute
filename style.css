@@ -10,5 +10,12 @@
 }
 
 #img-div{
-    background: url('tribute-page.jpg');
+    background-color: white;
+}
+
+#image{
+    margin-left: 300px;
+}
+.img-caption{
+    text-align: center;
 }

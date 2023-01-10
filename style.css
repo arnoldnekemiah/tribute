@@ -26,3 +26,8 @@
 .list{
     text-align: center;
 }
+#tribute-info{
+    display: block;
+    
+    margin: 20px 0px;
+}
